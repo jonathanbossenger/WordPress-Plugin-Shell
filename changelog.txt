@@ -1,0 +1,4 @@
+*** WordPress Plugin Shell Changelog ***
+
+2016.03.29 - version 1.0.0
+ * Initial release
