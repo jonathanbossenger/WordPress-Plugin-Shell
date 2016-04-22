@@ -2,10 +2,10 @@
 /*
  * Plugin Name: WordPress Plugin Shell
  * Version: 1.0
- * Plugin URI: http://www.psykrotek.co.za/
+ * Plugin URI: http://jonathanbossenger.com/
  * Description: This is an empty shell for your next WordPress plugin.
  * Author: Jonathan Bossenger
- * Author URI: http://www.psykrotek.co.za/
+ * Author URI: http://jonathanbossenger.com/
  * Requires at least: 4.0
  * Tested up to: 4.0
  *
