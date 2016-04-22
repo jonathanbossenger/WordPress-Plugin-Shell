@@ -17,7 +17,7 @@ msgid "WordPress Plugin Shell"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
-msgid "http://www.psykrotek.co.za/"
+msgid "http://jonathanbossenger.com/"
 msgstr ""
 
 #. Author of the plugin/theme
@@ -25,5 +25,5 @@ msgid "Jonathan Bossenger"
 msgstr ""
 
 #. Author URI of the plugin/theme
-msgid "http://www.psykrotek.co.za/"
+msgid "http://jonathanbossenger.com/"
 msgstr ""
